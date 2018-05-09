@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 First time using Git push files to Github.
 Creating a new branch is quick & simple.
+测试：中文是否乱码。
